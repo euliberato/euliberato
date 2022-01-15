@@ -1,5 +1,7 @@
 ### Eai, pessoal! Eu sou Ruan Liberato, estudante de Engenharia de Software 👋 
 
+- "Você pode ter resultados ou desculpas, não os dois!"
+
 - 👨‍💻 Trabalho voluntário na Empresa Junior IncludeJR pela Universidade Federal do Ceará
 
 <div align="center">
